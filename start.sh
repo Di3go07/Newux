@@ -6,6 +6,6 @@ sleep 2s
 		
 # Only the config listed below will be avtivated
 # if you want to combine with another theme, write the command here
-conky -c ~/.config./conky/Neux/Neux.conf &> /dev/null &
+conky -c ~/.config/conky/Neux/Neux.conf &> /dev/null &
 
 exit
