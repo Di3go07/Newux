@@ -5,7 +5,7 @@ from datetime import datetime
 import random
 
 # -- RESGATANDO NEWS -- 
-API_KEY = 'd091e04242e04c02975366f41ade9a14'
+API_KEY = 'API KEY'
 
 url = f'https://newsapi.org/v2/top-headlines?country=us&apiKey={API_KEY}'
 
