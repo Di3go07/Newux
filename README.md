@@ -2,7 +2,7 @@
 
 ## 📃 Apresentação 
 
-Newux é um widget conky desenvolvido para apresentar as últimas notícias do mundo, deixando as informações acessíveis na área de trabalho do seu dasktop.
+Newux é um widget Conky desenvolvido para apresentar as últimas notícias do mundo, deixando as informações acessíveis na área de trabalho do seu dasktop.
 
 A API usada no projeto foi a [News API](https://newsapi.org/docs/get-started). Sinta-se livre para escolher outra da sua preferência e alterar o script para recuperar as informações retornadas por ela.
 
